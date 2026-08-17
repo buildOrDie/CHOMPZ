@@ -6,13 +6,13 @@
     "explorer": "https://robinhoodchain.blockscout.com"
   },
   "contracts": {
-    "router": "0x2e0dec8c4d6624d5315c9b0a57cb1cfdd1b108b8",
-    "nft": "0x3673D6826F84B9C97fa259F73c369D5A9f5BCD90",
-    "weth": "0x0bd7d308f8e1639fab988df18a8011f41eacad73",
-    "v2Router": "0x89e5db8b5aa49aa85ac63f691524311aeb649eba",
-    "v3Router": "0xcaf681a66d020601342297493863e78c959e5cb2",
-    "v3Quoter": "0x33e885ed0ec9bf04ecfb19341582aadcb4c8a9e7",
-    "v4Quoter": "0x8dc178efb8111bb0973dd9d722ebeff267c98f94",
+    "router": "xxx",
+    "nft": "xxx",
+    "weth": "xxxx",
+    "v2Router": "xxx",
+    "v3Router": "xxx",
+    "v3Quoter": "xxx",
+    "v4Quoter": "xxx",
     "v4DefaultHooks": "0x0000000000000000000000000000000000000000"
   }
 }
